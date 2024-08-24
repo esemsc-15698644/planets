@@ -1,0 +1,12 @@
+To reference planets repository in publications, please cite the following:
+
+Arastun Mammadli: "The Planets Repository: Exploring Mars and Venus".
+Imperial College London, MSc ASCE, Git Presessional, Aug 2024.
+
+@software{planets,
+	author={{Arastun Mammadli}},
+	title={"The Planets Repository"},
+	url={https://github.com/esemsc-15698644/planets/},
+	version={0.0.1},
+	date={24-08-2024},
+}
